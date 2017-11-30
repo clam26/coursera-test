@@ -9,3 +9,7 @@ angular.module('myFirstApp', [])
 });
 
 })();
+
+(function(){
+  
+})();
